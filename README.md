@@ -2,7 +2,7 @@
 
 A 3D browser game where you plan, build and fly a mission to Mars. Made for the **NASA Space Apps Challenge** (middle/high school track).
 
-**▶ Play it:** _GitHub Pages link goes here once Pages is turned on_
+**▶ Play it:** https://bdelacru.github.io/mission-space/
 
 ## What you do
 1. **Meet the crew.** Talk to a planetary scientist, a spacecraft engineer, a launch-pad firefighter and a flight surgeon. Each one teaches a real space fact and quizzes you for bonus funding.
